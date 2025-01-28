@@ -8,7 +8,7 @@ Pertubuhan Belia Kebangsaan Bersatu Sarawak
   <button id="loginButton" style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">Login</button>
 
   <script>
-    // Redirect to login.html when button is clicked
+ <a href= // Redirect to login.html when button is clicked
     document.getElementById('loginButton').addEventListener('click', function () {
       window.location.href = 'login.html'; // Halaman yang akan dibuka
     });
