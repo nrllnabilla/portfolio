@@ -4,11 +4,11 @@ Pertubuhan Belia Kebangsaan Bersatu Sarawak
     Log In
 </a>
 <form action="https://www.example.com/login" method="POST">
-    <label for="username">Username:</label>
-    <input type="text" id="username" name="username" required><br><br>
+ <label for="username">Username:</label>
+ <input type="text" id="username" name="username" required><br><br>
     
-    <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required><br><br>
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password" required><br><br>
 
-    <button type="submit" style="background-color:#4CAF50; color:white; padding:10px 20px; border-radius:5px;">Log In</button>
+<button type="submit" style="background-color:#4CAF50; color:white; padding:10px 20px; border-radius:5px;">Log In</button>
 </form>
