@@ -4,7 +4,6 @@ Pertubuhan Belia Kebangsaan Bersatu Sarawak
     Log In
 </a>
 <button id="loginButton">Log Masuk</button>
-
 <script>
   document.getElementById('loginButton').addEventListener('click', function() {
     window.location.href = 'login.html';
